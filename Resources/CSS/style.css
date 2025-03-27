@@ -11,6 +11,15 @@ h1 {
    color: white;
 }
 
+.h2--personal {
+    font: 300;
+    font-size: 42px;
+}
+
+.h4--personal {
+    font-size: 21px;
+    color: gray;
+}
 a {
     color: aquamarine;
     font-size: 16px;
